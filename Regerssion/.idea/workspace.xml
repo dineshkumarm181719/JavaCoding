@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0d94c3-f2f0-469e-a078-1e7473005af4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSAJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/Queue/src/QueueBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/Queue/src/QueueLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/CheckParenthenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/InfiixToPostFix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/InfixToPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/LongestVaildParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/MinmumNoSameParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/NextStrongSignal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/RemoveNthPositionInStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/RevealCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/ReverseSentenceUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/ReverseWordInStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/stack/src/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/BreakAPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Rearrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/RorderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/TrainCompartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/ZigZagLinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3Jl6gSMoMMFs0qnpaeWZlpyeXlK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/idgus/Desktop/CodingMart/DSAJAVA/Regerssion"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0d94c3-f2f0-469e-a078-1e7473005af4" name="Changes" comment="" />
+      <created>1790223418482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790223418482</updated>
+    </task>
+    <servers />
+  </component>
+</project>
